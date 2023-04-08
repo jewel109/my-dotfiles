@@ -1,0 +1,3 @@
+--TODO: [https://github.com/agilesteel/.dotfiles/blob/master/stow/zsh/.zshrc] this link would be followed
+--TODO: git post-commit hook 
+--TODO:

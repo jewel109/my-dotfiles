@@ -1,0 +1,7 @@
+
+keycode 118 = Control_R NoSymbol Control_R
+keycode 135 = Super_R NoSymbol Super_R
+
+add control = Control_R
+
+add mod4 = Super_R
