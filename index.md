@@ -1,3 +1,5 @@
 --TODO: [https://github.com/agilesteel/.dotfiles/blob/master/stow/zsh/.zshrc] this link would be followed
---TODO: git post-commit hook 
+--FIX: git post-commit hook 
 --TODO: bash shortcut for command line emacs
+--todo: nothing
+--NOTE: hey
