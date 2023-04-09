@@ -105,6 +105,7 @@ export ZSH="$HOME/.oh-my-zsh"
 alias tnote="tmux a -t note"
 alias tproject="tmux a -t project"
 alias nvim-lazy="NVIM_APPNAME=LazyVim nvim"
+alias sz="source ~/.zshrc"
 
 # key remap
 xmodmap ~/.Xmodmap
