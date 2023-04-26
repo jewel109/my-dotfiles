@@ -106,12 +106,13 @@ alias tnote="tmux a -t note"
 alias tproject="tmux a -t project"
 alias nvim-lazy="NVIM_APPNAME=LazyVim nvim"
 alias sz="source ~/.zshrc"
-
+alias ezs="nvim ~/dotfiles/zsh/.zshrc"
 # key remap
 xmodmap ~/.Xmodmap
 #lvim path 
 export PATH=/home/raihan/.local/bin:$PATH
-
+export DENO_INSTALL="/home/raihan/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
